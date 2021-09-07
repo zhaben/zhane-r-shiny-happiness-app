@@ -22,7 +22,7 @@ Use of R and ggplot2, and Shiny."
 This is the first project of NYC Data Science Academy. 
 One of the initial steps in the data analysis/data science process is exploring and understanding trends in the data, which can help us to make predictions about future data.
 
-In regression analysis (linear and multiple linear), there are requirements:
+In regression analysis (linear and multiple linear), there are assumptions to consider:
 1. Normality: For any fixed value of X, Y is normally distributed.
 2. Linearity: The relationship between X and the mean of Y is linear.
 3. Homoscedasticity: The variance of residual is the same for any value of X.
