@@ -1,8 +1,8 @@
 # zhane-r-shiny-happiness-app
 An interactive app in R Shiny that visualizes the distribution of Happiness Survey Results from around the world.
-
+---
 Assignment:
-For this project, you are required to build an interactive Shiny application that can create visual representations of data insights and trends. Make sure there is a balance of interactivity and simplicity that allows an outside user to both understand your points and also uncover their own insights without distractions of unnecessary details. Choose a dataset that can demonstrate a story or problem. If you have trouble finding one, feel free to consult a TA for assistance.
+"For this project, you are required to build an interactive Shiny application that can create visual representations of data insights and trends. Make sure there is a balance of interactivity and simplicity that allows an outside user to both understand your points and also uncover their own insights without distractions of unnecessary details. Choose a dataset that can demonstrate a story or problem. If you have trouble finding one, feel free to consult a TA for assistance.
 
 Successful projects will encompass a plethora of skills including, but not limited to:
 
@@ -14,7 +14,8 @@ Time management (not going over the allotted time).
 Ability to answer audience questions.
 Explanation of future work: what would you do if given more time, data, etc.?
 Ability of an arbitrary audience to glean insights in your absence.
-Use of R and ggplot2, and Shiny.
+Use of R and ggplot2, and Shiny."
+---
 
 This is the first project of NYC Data Science Academy. 
 One of the initial steps in the data analysis/data science process is exploring and understanding trends in the data, which can help us to make predictions about future data.
