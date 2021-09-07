@@ -2,6 +2,7 @@
 An interactive app in R Shiny that visualizes the distribution of Happiness Survey Results from around the world.
 ---
 Assignment:
+
 "For this project, you are required to build an interactive Shiny application that can create visual representations of data insights and trends. Make sure there is a balance of interactivity and simplicity that allows an outside user to both understand your points and also uncover their own insights without distractions of unnecessary details. Choose a dataset that can demonstrate a story or problem. If you have trouble finding one, feel free to consult a TA for assistance.
 
 Successful projects will encompass a plethora of skills including, but not limited to:
