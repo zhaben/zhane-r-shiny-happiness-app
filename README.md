@@ -15,6 +15,7 @@ Ability to answer audience questions.
 Explanation of future work: what would you do if given more time, data, etc.?
 Ability of an arbitrary audience to glean insights in your absence.
 Use of R and ggplot2, and Shiny."
+
 ---
 
 This is the first project of NYC Data Science Academy. 
