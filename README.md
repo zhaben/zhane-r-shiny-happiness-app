@@ -37,7 +37,7 @@ In the interactive section, the user can update the graph by adding more bins, a
 
 We can see that the happiness scores are shaped like a bell curve after increasing the # of bins to 30 (it looks like there are a few outliers).
 
-If I had more time, I would create a scatterplot to show the relationship between a country's happiness score and other variables(GDP per capita, Social Support, Healthy Life Expectancy, Freedom to Make Choices, Generosity, and Perceptions Corruption.
+If I had more time, I would create an interactive scatterplot to show the relationship between a country's happiness score and other variables(GDP per capita, Social Support, Healthy Life Expectancy, Freedom to Make Choices, Generosity, and Perceptions Corruption.
 
 Overall, this is an important dataset considering the pandemic's impact on mental health around the world, and the larger conversation about its importance during a time where our institutions have less control over new strains that have been emerging recently (ex. Delta). 
 If this survey is offered again over the next several years, it would be interesting to compare how COVID-19 and quarantine has disrupted trends in happiness scores across regions, and how the rankings have changed based on how quickly regions responded to the outbreak.
